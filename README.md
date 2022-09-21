@@ -1,5 +1,10 @@
 ### Hi there 👋
+I'm a Mechatronics Engineering and Computer Science student studying at the University of Queensland. Whilst studying, I am software developer working on Laravel projects.
 
+## GitHub Usage  
+<div align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=jdw5&show_icons=true&count_private=true&hide_border=true" style="width: 50%" />
+</div> 
 <!--
 **jdw5/jdw5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
